@@ -4,7 +4,8 @@ A program that reads 3 sets of data from 3 separate files and provides a consoli
 Written in JavaScript and Node.js, Unit Tests in Jest.
 
 ## Problem Statement
-Print Org Chart for an Employee
+Print an Org Chart for an Employee.
+
 Write a program that reads three sets of data from 3 files 1) Personal 2) Organization 3) Team and provides a consolidated
 output given a person first name or lastname or both.
 For example:
