@@ -1,0 +1,58 @@
+[
+    {
+        "firstName": "John", 
+        "lastName": "Doe",
+        "phoneNumber": 1111111111,
+        "address": "1 Main Street, City, State",
+        "personId": 1000
+    },
+    {
+        "firstName": "John", 
+        "lastName": "Doe",
+        "phoneNumber": 1234567890,
+        "address": "2 Side Street, City, State",
+        "personId": 1001
+    },
+    {
+        "firstName": "Harry", 
+        "lastName": "Orange",
+        "phoneNumber": 1231231234,
+        "address": "3 Cross Street, City, State",
+        "personId": 1002
+    },
+    {
+        "firstName": "Alice", 
+        "lastName": "Apple",
+        "phoneNumber": 1233211234,
+        "address": "4 Cross Street, City, State",
+        "personId": 1003
+    },
+    {
+        "firstName": "Bob", 
+        "lastName": "Barker",
+        "phoneNumber": 4444444444,
+        "address": "5 Cross Street, City, State",
+        "personId": 1004
+    },
+    {
+        "firstName": "Charlie", 
+        "lastName": "Cross",
+        "phoneNumber": 5555555555,
+        "address": "6 Cross Street, City, State",
+        "personId": 1005
+    },
+    {
+        "firstName": "Dan", 
+        "lastName": "Danny",
+        "phoneNumber": 6666666666,
+        "address": "7 Cross Street, City, State",
+        "personId": 1006
+    },
+    {
+        "firstName": "John", 
+        "lastName": "Deer",
+        "phoneNumber": 9878767654,
+        "address": "3 Side Street, City, State",
+        "personId": 1007
+    }
+]

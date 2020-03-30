@@ -1,0 +1,16 @@
+{
+  "name": "orgchartproblem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.2.3"
+  },
+  "scripts": {
+    "start":"node index.js",
+    "test": "jest"
+  },
+  "author": "Howard Yang",
+  "license": "ISC"
+}

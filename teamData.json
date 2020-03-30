@@ -1,0 +1,35 @@
+[
+    {
+        "manager": 999,
+        "teamMember": 1000
+    },
+    {
+        "manager": 1000,
+        "teamMember": 1001
+    },
+    {
+        "manager": 1001,
+        "teamMember": 1002
+    },
+    {
+        "manager": 1002,
+        "teamMember": 1003
+    },
+    {
+        "manager": 1003,
+        "teamMember": 1004
+    },
+    {
+        "manager": 1003,
+        "teamMember": 1005
+    },
+    {
+        "manager": 1005,
+        "teamMember": 1006
+    },
+    {
+        "manager": 1004,
+        "teamMember": 1007
+    }
+    
+]
