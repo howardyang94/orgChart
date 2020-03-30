@@ -1,5 +1,5 @@
 # OrgChart
-A program that reads 3 separate sets of data from 3 files and provides a consolidated output based on a set of search parameters: FirstName, LastName[optional], User ID [optional], Level[optional]
+A program that reads 3 sets of data from 3 separate files and provides a consolidated output based on a set of search parameters: FirstName, LastName[optional], User ID [optional], Level[optional]
 
 Written in JavaScript and Node.js, Unit Tests in Jest.
 
