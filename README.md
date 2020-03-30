@@ -44,7 +44,7 @@ npm start
 
 Then follow the prompts and enter your search parameters.
 
-Unit tests can be run with 
+Unit tests can be run with:
 ```bash
 npm run test
 ```
