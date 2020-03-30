@@ -26,7 +26,7 @@ people reporting into that person to all Levels
 
 
 ## Assumptions
-- Data is taken from the 3 files named 'orgData.json', 'personalData.json', and 'teamData.json', and the data is in valid JSON format.
+- Data is read from the 3 files named 'orgData.json', 'personalData.json', and 'teamData.json', and the data is in valid JSON format.
 - There is no data with duplicate 'personId' s (will throw an exception)
 - Each data object from 'orgData' must have a corresponding entry in 'personalData', 2 pieces of data that represent one employee (will throw an exception otherwise)
 - All fields will contain singular values
